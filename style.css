@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.header_logo {
+    padding-top: 40px;
+    padding-right: 14px;
+}
+
+.grow_be {
+    padding-top: 45px;
+    padding-right: 500px;
+}
+
+.header__link {
+    padding-top: 51px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.header__link:first-of-type {
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+}
+
+.top__content {
+    margin-top: 84px;
+    margin-bottom: 163px;
+}
+
+.top__title {
+    margin-bottom: 17px;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+}
+
+.top__text {
+    margin-bottom: 37px;
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+}
+
+.top__link_orange {
+    padding: 15px 36px 16px 35px;
+    margin-right: 72px;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+}
+
+.top__link_grey {
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+}
+
+.top__logo {
+    margin-right: 48px;
+}
